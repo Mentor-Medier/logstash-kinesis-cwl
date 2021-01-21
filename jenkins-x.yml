@@ -1,4 +1,3 @@
 buildPack: docker
 pipelineConfig:
-  agent:
-    image: docker
+  pipelines: {}
